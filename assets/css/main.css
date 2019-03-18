@@ -2946,17 +2946,13 @@ input, select, textarea {
 			box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 		}
 		.frontCard {
-			-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-			-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-			-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-			transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 			padding-left: 2em;
 			padding-right: 2em;
 			margin-left: 38%;
 			background-color: #f1f1f1;
 			max-width: 600px;
 			border-radius: 10px;
-			box-shadow: 0 1px 3px rgba(0,0,0,0.25), 0 1px 2px rgba(0,0,0,0.22);
+			box-shadow: 0 1px 3px #333, 0 1px 2px #555;
 
 		}
 
